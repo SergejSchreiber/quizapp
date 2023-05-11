@@ -113,3 +113,34 @@ body {
 .btn:disabled {
     border: none;
 }
+
+.xofxquestions {
+    padding-top: 15px;
+}
+
+.endscreen-content {
+    width: 600px;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.imgbrainresult {
+    height: 75px;
+    margin-top: 35px;
+}
+
+.imgtrophy {
+    height: 200px;
+    position: absolute;
+    right: 0;
+
+}
+
+.progress {
+    position: absolute;
+    width: 100vw;
+    top: 0;
+}
